@@ -1,7 +1,7 @@
 # **Electronic-Healthcare-System**
 Electronic Healthcare System for optimized healthcare management in Albania.
 
-**Repository Structure**
+# **Repository Structure** #
 
 This repository contains the following folders and files:
 
