@@ -2,6 +2,7 @@
 Electronic Healthcare System for optimized healthcare management in Albania.
 
 **Repository Structure**
+
 This repository contains the following folders and files:
 
 **1. meeting_reports**
