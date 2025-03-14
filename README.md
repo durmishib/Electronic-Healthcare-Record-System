@@ -5,6 +5,7 @@
 This repository contains the following folders and files:
 
 **1. meeting_reports**
+
 **Description:** 
 This folder contains weekly meeting reports documenting the progress of the project.
 
