@@ -21,7 +21,7 @@ This folder contains weekly meeting reports documenting the progress of the proj
 ### **2. week3**
 
 **Description:**  
-This file contains the work process and deliverables completed during **Week 3** of the project. It includes the **requirement specifications** for the Electronic Healthcare System.
+This folder contains the work process and deliverables completed during **Week 3** of the project. It includes the **requirement specifications** file for the Electronic Healthcare System.
 
 **Contents:**  
 1. **User Requirements**:  
