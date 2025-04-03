@@ -34,7 +34,6 @@ This folder contains the work process and deliverables completed during **Week 3
 ### 3. week 4 - Use Cases and Use Case Diagram for EHR System
 
 **Description:**
-
 This folder, **week4**, contains detailed documentation of the use cases developed for the Electronic Healthcare Record (EHR) system, along with a comprehensive use case diagram. These documents are essential for understanding the functional requirements and expected interactions between users and the system.
 
 **Contents:**
@@ -48,7 +47,6 @@ This folder, **week4**, contains detailed documentation of the use cases develop
 ### 4. week 5 - Activity Diagrams for EHR System Use Cases
 
 **Description:**
-
 The **week5** folder contains a set of activity diagrams created to visually represent the processes involved in each use case of the Electronic Healthcare Record (EHR) system. These diagrams are crucial for understanding the dynamic aspects of the use cases and provide a clear visual flow of the activities within each use case. The diagrams detail the step-by-step flow of operations, decisions, and activities that occur when the use case is executed.
 
 **Content:**  
