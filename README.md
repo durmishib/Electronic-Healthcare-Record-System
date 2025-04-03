@@ -52,5 +52,5 @@ This folder, **week4**, contains detailed documentation of the use cases develop
 The **week5** folder contains a set of activity diagrams created to visually represent the processes involved in each use case of the Electronic Healthcare Record (EHR) system. These diagrams are crucial for understanding the dynamic aspects of the use cases and provide a clear visual flow of the activities within each use case. The diagrams detail the step-by-step flow of operations, decisions, and activities that occur when the use case is executed.
 
 **Content:**  
- -Activity Diagrams.
+ - Activity Diagrams.
 
