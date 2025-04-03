@@ -39,7 +39,7 @@ This folder, **week4**, contains detailed documentation of the use cases develop
 
 **Contents:**
 
-1. **`UseCases.md`**:
+1. **`UseCases.pdf`**:
    -This Markdown file contains the detailed descriptions of all the use cases related to the EHR system. Each use case provides a clear explanation of the goals, main actors, preconditions, basic flow, alternative flows, and postconditions.
 
 2. **`UseCaseDiagram.png`**:
