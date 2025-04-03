@@ -18,7 +18,7 @@ This folder contains weekly meeting reports documenting the progress of the proj
 - Decisions made.  
 - Tasks assigned to team members.  
 
-### **2. week3**
+### **2. week3** - Requirements Specification
 
 **Description:**  
 This folder contains the work process and deliverables completed during **Week 3** of the project. It includes the **requirement specifications** file for the Electronic Healthcare System.
@@ -31,7 +31,7 @@ This folder contains the work process and deliverables completed during **Week 3
 3. **Organizational and External Requirements**:  
    - Requirements derived from organizational policies and external factors.
 
-### 3. week 4 
+### 3. week 4 - Use Cases and Use Case Diagram for EHR System
 
 **Description:**
 
@@ -44,4 +44,13 @@ This folder, **week4**, contains detailed documentation of the use cases develop
 
 2. **`UseCaseDiagram.png`**:
    -A visual representation of the use cases in a diagrammatic form. This diagram illustrates the relationships between the actors and the use cases, providing a quick overview of the entire system's functionality.
+
+### 4. week 5 - Activity Diagrams for EHR System Use Cases
+
+**Description:**
+
+The **week5** folder contains a set of activity diagrams created to visually represent the processes involved in each use case of the Electronic Healthcare Record (EHR) system. These diagrams are crucial for understanding the dynamic aspects of the use cases and provide a clear visual flow of the activities within each use case. The diagrams detail the step-by-step flow of operations, decisions, and activities that occur when the use case is executed.
+
+**Content:**  
+ -Activity Diagrams.
 
