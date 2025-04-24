@@ -52,3 +52,10 @@ The **week5** folder contains a set of activity diagrams created to visually rep
 **Content:**  
  - Activity Diagrams.
 
+### 4. week 6 - Class Diagram, ERD, State Diagrams
+
+**Description:**
+The **week6** folder contains:
+ - Class diagram: Represents the structure and relationships between system classes.
+ - ERD: Illustrates the database schema and relationships.
+ - State Diagrams: Depict the lifecycle of key system entities.
